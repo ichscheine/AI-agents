@@ -1,0 +1,16 @@
+name: python_basics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - pandas
+  - scipy
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - jupyter
+  - ipykernel
